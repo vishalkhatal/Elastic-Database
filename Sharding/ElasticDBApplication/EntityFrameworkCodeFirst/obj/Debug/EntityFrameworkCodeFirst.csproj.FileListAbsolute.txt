@@ -1,0 +1,22 @@
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.exe.config
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.exe
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.pdb
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.dll
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.xml
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.xml
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.xml
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\obj\Debug\EFCodeFirstElasticScale.Migrations.InitialCreate.resources
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\obj\Debug\EFCodeFirstElasticScale.Migrations.AddUrl.resources
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\obj\Debug\EFCodeFirstElasticScale.Migrations.AddUser.resources
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\obj\Debug\EFCodeFirstElasticScale.Migrations.ChangeDisplayName.resources
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csproj.GenerateResource.Cache
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.exe
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.pdb
+D:\Office\Project\ConseroElasticDBApplication\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csprojResolveAssemblyReference.cache
+E:\Vishal-Github\Elastic-Database\MultiShard Queries\ElasticDBApplication\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csprojResolveAssemblyReference.cache
