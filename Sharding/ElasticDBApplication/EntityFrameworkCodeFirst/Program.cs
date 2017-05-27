@@ -44,7 +44,7 @@ namespace EFCodeFirstElasticScale
             // memory per AppDomain so that the mapping cache is not duplicated.
             s_shardMapManager = ShardManagementUtils.TryGetShardMapManager(
                 Configuration.ShardMapManagerServerName,
-                "Consero_ShardMapManagerDb");
+                "ShardMapManagerDb");
 
             // CreateShardMapManagerAndShard();
 

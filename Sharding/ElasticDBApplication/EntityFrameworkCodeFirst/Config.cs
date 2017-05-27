@@ -24,7 +24,7 @@ namespace EFCodeFirstElasticScale
         /// </summary>
         public static string ShardMapManagerDatabaseName
         {
-            get { return "Consero_ShardMapManagerDb"; }
+            get { return "ShardMapManagerDb"; }
         }
 
         /// <summary>
